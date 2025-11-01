@@ -1,16 +1,13 @@
-## Hi there 👋
+### Yair - Creating Worlds, One Line of Code at a Time 
 
-<!--
-**Solwolf232/Solwolf232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer who’s been passionate about coding since childhood.
+Currently pursuing a B.Sc. in Software Engineering at SCE (College of Engineering).
+Passionate about game development, interactive systems, and building creative tools.
+Currently learning how to combine technology with creativity to make meaningful experiences.
 
-Here are some ideas to get you started:
+<p align="center">
+  🎮 <a href="https://solwolf232.itch.io/" target="_blank">Check out my projects on itch.io</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Yair's GitHub Stats -->
+![Solwolf232's Stats](https://github-readme-stats.vercel.app/api?username=Solwolf232&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
