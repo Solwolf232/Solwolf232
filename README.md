@@ -1,9 +1,9 @@
 ### Yair - Creating Worlds, One Line of Code at a Time 
 
-💻Software Engineer who’s been passionate about coding since childhood.
-🧠Currently pursuing a B.Sc. in Software Engineering at SCE (College of Engineering).
-✨Passionate about game development, interactive systems, and building creative tools.
-🔍Currently learning how to combine technology with creativity to make meaningful experiences.
+💻Software Engineer who’s been passionate about coding since childhood.<br>
+🧠Currently pursuing a B.Sc. in Software Engineering at SCE (College of Engineering).<br>
+✨Passionate about game development, interactive systems, and building creative tools.<br>
+🔍Currently learning how to combine technology with creativity to make meaningful experiences.<br>
 <p align="center">
   🎮 <a href="https://solwolf232.itch.io/" target="_blank">Check out my projects on itch.io</a>
 </p>
